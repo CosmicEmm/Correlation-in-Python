@@ -47,6 +47,6 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-## Results Summary
+## 📈 Results Summary
 - GDP and average income show strong positive correlations with happiness.
 - Income inequality shows a clear negative correlation, consistent with socioeconomic research.
