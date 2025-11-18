@@ -27,9 +27,23 @@ Using Python, Pandas, Seaborn, Matplotlib, and statistical correlation methods, 
 ```
 Correlation-in-Python
 │
-├── README.md                                     # Full project documentation
+├── README.md                                     # Project documentation
 ├── Happiness Score Correlation Analysis.ipynb    # Main Jupyter Notebook (clean, well-commented)
 ├── data/
 │   └── happyscore.csv                            # Original dataset
 ├── requirements.txt                              # Python dependencies
+```
+## ⚙️ Installation & Setup
+1. Clone the repository
+```bash
+git clone https://github.com/<your-username>/Correlation-in-Python.git
+cd happiness-correlation-analysis
+```
+2. Install Required Libraries
+```bash
+pip install -r requirements.txt
+```
+3. Open the notebook:
+```bash
+jupyter notebook
 ```
