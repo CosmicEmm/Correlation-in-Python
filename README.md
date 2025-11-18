@@ -23,3 +23,13 @@ Using Python, Pandas, Seaborn, Matplotlib, and statistical correlation methods, 
 - Horizontal bar charts with:
     - Dynamic color-coding (positive/negative correlations)
     - Numerical annotations along bars
+## 🏗️ Project Architecture
+```
+happiness-correlation-analysis
+│
+├── 📄 README.md                       ← Full project documentation
+├── 📊 Python Correlation.ipynb        ← Main Jupyter Notebook (clean, well-commented)
+├── 📁 data/
+│     └── happiness_data.csv           ← Original dataset
+├── 📄 requirements.txt                ← Python dependencies
+```
