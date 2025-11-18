@@ -23,6 +23,7 @@ Using Python, Pandas, Seaborn, Matplotlib, and statistical correlation methods, 
 - Horizontal bar charts with:
     - Dynamic color-coding (positive/negative correlations)
     - Numerical annotations along bars
+    
 ## 🏗️ Project Architecture
 ```
 Correlation-in-Python
@@ -50,3 +51,11 @@ jupyter notebook
 ## 📈 Results Summary
 - GDP and average income show strong positive correlations with happiness.
 - Income inequality shows a clear negative correlation, consistent with socioeconomic research.
+
+## 🧑‍💻 Author
+
+Muhammad
+
+📍 Data Analyst | Python Programmer | Data Explorer
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/emmmuhammad/)
