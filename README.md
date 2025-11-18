@@ -25,7 +25,7 @@ Using Python, Pandas, Seaborn, Matplotlib, and statistical correlation methods, 
     - Numerical annotations along bars
 ## 🏗️ Project Architecture
 ```
-happiness-correlation-analysis
+Correlation-in-Python
 │
 ├── README.md                                     # Full project documentation
 ├── Happiness Score Correlation Analysis.ipynb    # Main Jupyter Notebook (clean, well-commented)
