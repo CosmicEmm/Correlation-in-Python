@@ -37,7 +37,7 @@ Correlation-in-Python
 1. Clone the repository
 ```bash
 git clone https://github.com/<your-username>/Correlation-in-Python.git
-cd happiness-correlation-analysis
+cd Happiness-Correlation-Analysis
 ```
 2. Install Required Libraries
 ```bash
