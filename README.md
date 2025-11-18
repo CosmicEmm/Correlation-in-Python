@@ -27,9 +27,9 @@ Using Python, Pandas, Seaborn, Matplotlib, and statistical correlation methods, 
 ```
 happiness-correlation-analysis
 │
-├── README.md                       # Full project documentation
-├── Python Correlation.ipynb        # Main Jupyter Notebook (clean, well-commented)
+├── README.md                                         # Full project documentation
+├── Happiness Score Correlation Analysis.ipynb        # Main Jupyter Notebook (clean, well-commented)
 ├── data/
-│   └── happiness_data.csv          # Original dataset
-├── requirements.txt                # Python dependencies
+│   └── happyscore.csv                                # Original dataset
+├── requirements.txt                                  # Python dependencies
 ```
