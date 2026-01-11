@@ -1,14 +1,14 @@
 # Happiness Score Correlation Analysis
 This project analyzes the relationships between global happiness scores and various socioeconomic indicators such as GDP, average income, income inequality, and geographic region.
 
-## 🚀 Features
+## Features
 Using Python, Pandas, Seaborn, Matplotlib, and statistical correlation methods, this project explores:
 - Which factors correlate most strongly with happiness
 - Whether inequality reduces happiness
 - How income and GDP relate to well-being
 - Which features may be redundant or highly correlated
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 ### Data Handling & Cleaning
 - Selecting numeric and categorical features
 - Converting categorical data into numeric codes for correlation analysis
@@ -24,7 +24,7 @@ Using Python, Pandas, Seaborn, Matplotlib, and statistical correlation methods, 
     - Dynamic color-coding (positive/negative correlations)
     - Numerical annotations along bars
     
-## 🏗️ Project Architecture
+## Project Architecture
 ```
 Correlation-in-Python
 │
@@ -34,7 +34,7 @@ Correlation-in-Python
 │   └── happyscore.csv                            # Original dataset
 ├── requirements.txt                              # Python dependencies
 ```
-## ⚙️ Installation & Setup
+## Installation & Setup
 1. Clone the repository
 ```bash
 git clone https://github.com/<your-username>/Correlation-in-Python.git
@@ -48,11 +48,11 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-## 📈 Results Summary
+## Results Summary
 - GDP and average income show strong positive correlations with happiness.
 - Income inequality shows a clear negative correlation, consistent with socioeconomic research.
 
-## 🧑‍💻 Author
+## Author
 
 Muhammad
 
